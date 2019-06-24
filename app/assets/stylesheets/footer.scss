@@ -15,11 +15,12 @@ body {
     position: relative;
     width: 100%;
     min-height: 100px;
-    background-color: rgba(36, 32, 33, 0.9);
+    background: image_url('grey_wash_wall.png');
     color: white;
     font-family: "Helvetica Neue", Helvetica;
     padding: 10px 0px;
     margin-top: 30px;
+    border-bottom: 5px solid #5BB85B;
 }
 #footer a {
     color: white;
